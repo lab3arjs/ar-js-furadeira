@@ -8,6 +8,6 @@ Projeto da Disciplina Laboratório de Banco de Dados III da FATEC São José dos
 - Matheus Rocha
 
 # Instruções para execução do projeto
-- Acesse: https://lab3arjs.github.io/furadeira.html
+- Acesse: https://lab3arjs.github.io/
 - Aproveite o treinamento =)
 
